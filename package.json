@@ -1,5 +1,5 @@
 {
-  "name": "worldbank",
+  "name": "@gr4vez/worldbank",
   "version": "1.0.0",
   "description": "World Bank API interface",
   "main": "dist/index.js",
