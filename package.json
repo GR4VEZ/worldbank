@@ -24,6 +24,10 @@
     "iso2"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GR4VEZ/worldbank.git"
+  },
   "devDependencies": {
     "@types/node": "^20",
     "husky": "^9.1.7",
