@@ -1,0 +1,2 @@
+npm run build:static
+git add src/static/countries.json
